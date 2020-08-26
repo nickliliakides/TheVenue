@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TheVenue/static/css/main.c7a1c7c8.chunk.css",
-    "main.js": "/TheVenue/static/js/main.128a478d.chunk.js",
-    "main.js.map": "/TheVenue/static/js/main.128a478d.chunk.js.map",
+    "main.js": "/TheVenue/static/js/main.bc74f07a.chunk.js",
+    "main.js.map": "/TheVenue/static/js/main.bc74f07a.chunk.js.map",
     "runtime~main.js": "/TheVenue/static/js/runtime~main.0076579e.js",
     "runtime~main.js.map": "/TheVenue/static/js/runtime~main.0076579e.js.map",
     "static/js/2.41cbd7d6.chunk.js": "/TheVenue/static/js/2.41cbd7d6.chunk.js",
     "static/js/2.41cbd7d6.chunk.js.map": "/TheVenue/static/js/2.41cbd7d6.chunk.js.map",
     "index.html": "/TheVenue/index.html",
-    "precache-manifest.2d2dfcc24f8d7cb61913001bf5378a34.js": "/TheVenue/precache-manifest.2d2dfcc24f8d7cb61913001bf5378a34.js",
+    "precache-manifest.f81f763a37d9e770923b542c2fca44ae.js": "/TheVenue/precache-manifest.f81f763a37d9e770923b542c2fca44ae.js",
     "service-worker.js": "/TheVenue/service-worker.js",
     "static/css/main.c7a1c7c8.chunk.css.map": "/TheVenue/static/css/main.c7a1c7c8.chunk.css.map",
     "static/media/Alice-Russell-620x340.jpg": "/TheVenue/static/media/Alice-Russell-620x340.c150624f.jpg",
